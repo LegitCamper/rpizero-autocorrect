@@ -1,0 +1,3 @@
+[submodule "autocorrect"]
+	path = autocorrect
+	url = https://github.com/LegitCamper/autocomplete-library-C
